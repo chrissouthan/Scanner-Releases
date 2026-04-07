@@ -1,5 +1,11 @@
 {
-  "Version": "1.0.17.0",
-  "DownloadUrl": "https://github.com/chrissouthan/Scanner-Releases/raw/main/releases/v1.0.17/SyncUpdate-v1.0.17.0.zip",
-  "ReleaseNotes": "Initial release"
+  "Version": "1.0.18.0",
+  "DownloadUrl": "https://github.com/chrissouthan/Scanner-Releases/raw/main/releases/v1.0.18/SyncUpdate-v1.0.18.0.zip",
+  "ReleaseNotes": "Improve data validation and logging in sync process
+
+- Skip and warn on rows with empty barcode, qty, or batch
+- Log successful StockTrans inserts and Stock updates
+- Change StockTrans date format to dd/MM/yyyy
+- Bump version to 1.0.18.0
+"
 }
