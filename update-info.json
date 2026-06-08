@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.0.0",
-  "DownloadUrl": "https://github.com/chrissouthan/Scanner-Releases/raw/main/releases/v1.2.0/SyncUpdate-v1.2.0.0.zip",
-"ReleaseNotes": "Added new features and improvements to the sync process:\n\n- Bump version to 1.2.0.0"
+  "Version": "1.2.0.1",
+  "DownloadUrl": "https://github.com/chrissouthan/Scanner-Releases/raw/main/releases/v1.2.0.1/SyncUpdate-v1.2.0.1.zip",
+"ReleaseNotes": "Added new features and improvements to the sync process:\n\n- Bump version to 1.2.0.1\n- Added new sync options for better performance\n- Improved error handling during sync\n- Updated user interface for easier navigation\n- Fixed minor bugs reported in previous versions.\n\nPlease make sure you delete the scan_data.txt file when prompted when using this release."
 }
