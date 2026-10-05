@@ -41,7 +41,5 @@ We value your privacy and are committed to protecting any personal information y
 8. Changes to This Policy
    We may update this Privacy Policy from time to time. Changes will be posted in this repository with an updated date.
 9. Contact
-   If you have questions about this Privacy Policy, please open an issue in this repository or contact:
-
-&nbsp;      :e-mail: \[southanchris@hotmail.com]
+   If you have questions about this Privacy Policy, please open an issue in this repository
 
