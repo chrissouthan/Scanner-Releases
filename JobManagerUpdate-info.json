@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.0.8",
-  "InstallerVersion": "1.0.8",
-  "DownloadUrl": "https://github.com/chrissouthan/Scanner-Releases/raw/main/JobManagerReleases/v1.0.8/JobManagerSetup.msi",
-  "Sha256": "77B8E7C84AD7E9608BCBC90E144FCB9269F9464F42C1F95D67E4B76FD714C348",
-  "ReleaseNotes": "Updated to version 1.0.0.8"
+  "Version": "1.0.9.0",
+  "InstallerVersion": "1.0.9",
+  "DownloadUrl": "https://github.com/chrissouthan/Scanner-Releases/raw/main/JobManagerReleases/v1.0.9/JobManagerSetup.msi",
+  "Sha256": "D5558D59FB7096CBC4243C630930E2EEA90BAF17D4F993A2B924EDAC8DB02D1D",
+  "ReleaseNotes": "Updated to version 1.0.9.0"
 }
